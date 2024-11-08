@@ -1,2 +1,3 @@
 # ccxt-test
-test test test
+
+Dun giv a Fyck licesence 
